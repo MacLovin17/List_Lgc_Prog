@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698858853 source:c:\users\adm_04\desktop\logica programação\ex_0013\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
